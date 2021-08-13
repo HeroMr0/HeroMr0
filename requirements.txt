@@ -1,8 +1,3 @@
-amino.py
-pathlib
-requests
-colorama
-pyfiglet
-websocket.client
-typing
-uuid
+amino.py==1.2.17
+BotAmino
+PIL
