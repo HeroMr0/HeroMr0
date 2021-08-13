@@ -1,0 +1,8 @@
+amino.py
+pathlib
+requests
+colorama
+pyfiglet
+websocket.client
+typing
+uuid
