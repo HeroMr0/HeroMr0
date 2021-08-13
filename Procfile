@@ -1,1 +1,1 @@
-worker: python invite.py
+worker: python main.py
