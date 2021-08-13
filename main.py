@@ -9,7 +9,7 @@ import BotAmino
 from PIL import Image, ImageDraw, ImageFont
 
 
-client = BotAmino.BotAmino()
+client = BotAmino.BotAmino("heromr59@azel.xyz","Zezo1992")
 print(f"Login as {client.profile.nickname=}, {client.authenticated=}")
 
 maintenanceTime = 0
